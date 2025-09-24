@@ -1,0 +1,25 @@
+body {background-color: white; 
+      color: #DC61A2;}
+
+
+h1 {text-align: left; 
+    font-size: 6em;
+    font-family: 'Bagel Fat One', regular;
+    margin-left: 200px;
+    margin-top: 300px;
+   
+    }
+
+    h2 {text-align: left;        
+        font-size: 4.5em;
+        margin-left: 200px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-family: 'Lexend', sans-serif;
+        font-weight: 400;
+     
+    
+        }   
+
+
+
