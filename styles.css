@@ -51,7 +51,7 @@ li {
     position: absolute;
     top: 0;
     right: 0;
-    width: 40%;
+    width: 50%;
     height: auto;
     aspect-ratio:calc(828/795);
     z-index: -1;
