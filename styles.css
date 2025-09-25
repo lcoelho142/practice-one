@@ -1,7 +1,3 @@
-.debug {
-    outline: green;
-}
-
 body {
     background-color: white; 
     color: #DC61A2;
@@ -57,9 +53,11 @@ li {
     right: 0;
     width: 40%;
     height: auto;
-    opacity: 0.8;
     aspect-ratio:calc(828/795);
     z-index: -1;
+
+    mask: linear-gradient(#000, #000);
+    mask: linear-gradient(transparent, #000, #000);
 }
 
 h1 {
@@ -75,6 +73,7 @@ h1 {
 
 .san {
     font-family: 'Lexend', sans-serif;
+    font-weight: 50;
     font-size: .7em;
 }
 
@@ -100,6 +99,12 @@ h2 {
     font-size: 16px;
     cursor: pointer;
 
+}
+
+.btn-pink {
+    background-color:#DC61A2;
+    color: white;
+    border-color: white;
 }
 
 .btn-orange {
