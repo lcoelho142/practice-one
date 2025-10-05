@@ -1,7 +1,7 @@
 const shopBtn = document.getElementById('shop-btn');
 const fitBtn = document.getElementById('fit-btn');
 
-shopBtn.addEventListener('click', function() { 
+shopBtn.addEventListener('click', function () { 
     alert('loading...');
 });
 
